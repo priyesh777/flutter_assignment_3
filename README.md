@@ -1,6 +1,6 @@
 # flutter_assignment3
 
-A new Flutter project.
+Simple Flutter Project used for Assignment Purposes
 
 ## Getting Started
 
